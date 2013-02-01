@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "xsaf-version": "3"
+    },
+    "autoblogs": [
+        {
+            "SITE_TYPE": "generic",
+            "SITE_TITLE": "le hollandais volant",
+            "SITE_URL": "http://lehollandaisvolant.net/",
+            "FEED_URL": "http://lehollandaisvolant.net/rss.php?full"
+        },
+        {
+            "SITE_TYPE": "generic",
+            "SITE_TITLE": "Le blog de Mitsu",
+            "SITE_URL": "https://www.suumitsu.eu",
+            "FEED_URL": "https://www.suumitsu.eu/feed/"
+        },
+        {
+            "SITE_TYPE": "shaarli",
+            "SITE_TITLE": "Links",
+            "SITE_URL": "https://www.ecirtam.net/links/index.php",
+            "FEED_URL": "https://www.ecirtam.net/links/index.php?do=rss"
+        },
+        {
+            "SITE_TYPE": "generic",
+            "SITE_TITLE": "sebsauvage.net",
+            "SITE_URL": "http://sebsauvage.net/rhaa/",
+            "FEED_URL": "http://sebsauvage.net/rhaa/rss_fulltext.php"
+        },
+        {
+            "SITE_TYPE": "shaarli",
+            "SITE_TITLE": "Liens en vrac de sebsauvage",
+            "SITE_URL": "http://sebsauvage.net/links/index.php",
+            "FEED_URL": "http://sebsauvage.net/links/index.php?do=rss"
+        },
+        {
+            "SITE_TYPE": "microblog",
+            "SITE_TITLE": "identica-jerezim",
+            "SITE_URL": "http://identi.ca/jerezim",
+            "FEED_URL": "http://identi.ca.nyud.net/api/statuses/user_timeline/jerezim.rss"
+        }
+    ]
+}
