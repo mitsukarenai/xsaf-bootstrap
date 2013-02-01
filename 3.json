@@ -37,7 +37,7 @@
             "SITE_TYPE": "microblog",
             "SITE_TITLE": "identica-jerezim",
             "SITE_URL": "http://identi.ca/jerezim",
-            "FEED_URL": "http://identi.ca.nyud.net/api/statuses/user_timeline/jerezim.rss"
+            "FEED_URL": "http://identi.ca/api/statuses/user_timeline/jerezim.rss"
         }
     ]
 }
