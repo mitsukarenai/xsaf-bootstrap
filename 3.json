@@ -1,6 +1,8 @@
 {
     "meta": {
-        "xsaf-version": "3"
+        "xsaf-version": "3",
+        "xsaf-db_transfer": "false",
+        "xsaf-media_transfer": "false"
     },
     "autoblogs": {
         "10dc615145d5d8fff00aa08b72016a729195fb52": {
