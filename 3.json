@@ -19,7 +19,7 @@
         },
         "d569fbe8fa6904b71c3704978c873be4ba25df85": {
             "SITE_TYPE": "shaarli",
-            "SITE_TITLE": "Links",
+            "SITE_TITLE": "shaarli-Links",
             "SITE_URL": "https://www.ecirtam.net/links/index.php",
             "FEED_URL": "https://www.ecirtam.net/links/index.php?do=rss"
         },
@@ -31,7 +31,7 @@
         },
         "e0a7717ac87ea9b1557d6ed7f81694f48ad9e3cb": {
             "SITE_TYPE": "shaarli",
-            "SITE_TITLE": "Liens en vrac de sebsauvage",
+            "SITE_TITLE": "shaarli-Liens en vrac de sebsauvage",
             "SITE_URL": "http://sebsauvage.net/links/index.php",
             "FEED_URL": "http://sebsauvage.net/links/index.php?do=rss"
         },
