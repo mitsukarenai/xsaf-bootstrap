@@ -14,8 +14,8 @@
         "5f3d80143adc2bba5ab41fdbc6d26b44d899ea70": {
             "SITE_TYPE": "generic",
             "SITE_TITLE": "Le blog de Mitsu",
-            "SITE_URL": "https://www.suumitsu.eu",
-            "FEED_URL": "https://www.suumitsu.eu/feed/"
+            "SITE_URL": "http://wwz.suumitsu.eu",
+            "FEED_URL": "http://wwz.suumitsu.eu/feed/"
         },
         "d569fbe8fa6904b71c3704978c873be4ba25df85": {
             "SITE_TYPE": "shaarli",
