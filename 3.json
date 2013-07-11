@@ -34,12 +34,6 @@
             "SITE_TITLE": "shaarli-Liens en vrac de sebsauvage",
             "SITE_URL": "http://sebsauvage.net/links/index.php",
             "FEED_URL": "http://sebsauvage.net/links/index.php?do=rss"
-        },
-        "identicajerezim_3173616f385fb6895612a0cbf73ac06fe932a395": {
-            "SITE_TYPE": "identica",
-            "SITE_TITLE": "identica-jerezim",
-            "SITE_URL": "http://identi.ca/jerezim",
-            "FEED_URL": "http://identi.ca/api/statuses/user_timeline/jerezim.rss"
         }
     }
 }
