@@ -8,14 +8,14 @@
         "lehollandaisvolantnet_f9e3899f52053c0dd7253d25ca504c7b4265953e": {
             "SITE_TYPE": "generic",
             "SITE_TITLE": "le hollandais volant",
-            "SITE_URL": "http://lehollandaisvolant.net/",
-            "FEED_URL": "http://lehollandaisvolant.net/rss.php?full"
+            "SITE_URL": "https://lehollandaisvolant.net/",
+            "FEED_URL": "https://lehollandaisvolant.net/rss.php?full"
         },
         "wwzsuumitsueu_4cc48ae68cedc368599ed4790b72d8a3dfa92651": {
             "SITE_TYPE": "generic",
             "SITE_TITLE": "Le blog de Mitsu",
-            "SITE_URL": "http://www.suumitsu.eu",
-            "FEED_URL": "http://www.suumitsu.eu/feed/atom"
+            "SITE_URL": "https://blog.suumitsu.eu",
+            "FEED_URL": "https://blog.suumitsu.eu/feed/atom"
         },
         "wwwecirtamnetlinks_0241ee9d15822b0727e62c15c61de467d47742f3": {
             "SITE_TYPE": "shaarli",
